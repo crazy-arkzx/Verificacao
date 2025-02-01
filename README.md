@@ -6,8 +6,11 @@ Você Digita `/Verificar` No Canal que Voce Colocou em `CHANNEL_ID` Depois Você
 
 # IMAGENS
 ![IMG](https://i.ibb.co/gFyCpHzW/IMG-20250201-WA0008.jpg)
+
 ![IMG](https://i.ibb.co/3mz6TtrN/IMG-20250201-WA0009.jpg)
+
 ![IMG](https://i.ibb.co/NdcQH2mj/IMG-20250201-WA0010.jpg)
+
 ![IMG](https://i.ibb.co/VYXxs85b/IMG-20250201-WA0011.jpg)
 
 > Aviso: Coloque o Cargo do Bot Acima do Cargo que Será Dado Altomaticamente Após o Registro e Garanta que o Bot Tenha a Permissao Para Gerenciar Cargos, Caso Contrário o Código não ira Funcionar
